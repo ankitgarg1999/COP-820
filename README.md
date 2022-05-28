@@ -1,4 +1,4 @@
-# Eyeriss_Project
+# Eyeriss Project
 This project was done as part of COP 820 - Processor Design Lab
 
 Offered by IIT Delhi during Spring 2019-20
